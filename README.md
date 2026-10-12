@@ -1,5 +1,5 @@
 # ABCT101
-Description
+
 This repository will help me keep track of my CT101 Project
 How often am I checking on this project?
 a. quantifying the amount of hours spent on a document or project file would
